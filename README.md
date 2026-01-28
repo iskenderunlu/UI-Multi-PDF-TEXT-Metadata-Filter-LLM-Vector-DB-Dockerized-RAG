@@ -10,9 +10,9 @@ What does it do ?
 
 How is its Architecture ?
 
-PDF → Chunk → Embedding → Vector DB
-                          ↑
-User Question → Embedding → Similarity Search → LLM → Answer
+# PDF → Chunk → Embedding → Vector DB
+#                          ↑
+# User Question → Embedding → Similarity Search → LLM → Answer
 
 Project Setting Up
 
