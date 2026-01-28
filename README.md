@@ -8,12 +8,6 @@ What does it do ?
 * It makes Embedding and stores it on a Vector Database.
 * It generates answers from the uploaded documents.
 
-How is its Architecture ?
-
-# PDF → Chunk → Embedding → Vector DB
-#                          ↑
-# User Question → Embedding → Similarity Search → LLM → Answer
-
 Project Setting Up
 
 1.1 Python Setup
